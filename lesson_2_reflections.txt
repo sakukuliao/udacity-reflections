@@ -1,0 +1,11 @@
+1)	What happens when you initialize a repository? Why do you need to do it?
+
+	Git creates a hidden directory with .git extention holding all the metadata it needs to keep ttracking any changes made on the directory.
+
+	I need to type "git init" to start using version-control provided by git.	
+
+2)	How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	A staging area is an intermidate point between working directory and the repository. It helps to organize commit history more logically in the repository. For ex, each time I make a commit, I can choose which files I want to commit, and which files are not related to the current working point.
+
+
