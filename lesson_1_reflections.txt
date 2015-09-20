@@ -27,17 +27,20 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+	I think it’s useful particularly when there are multiple somewhat relate files.
+	With multiple files in one commit, we can know the exact project state at the that time.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+	For git log, I can use it to view the history of commits. I can see when each commit is made, by whom, and the purpose. 
+	Therefore, I can use it compare different state of my project.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    I would be more certain that I can go back in time for any versions I’ve changed.
+    This frees me from worrying that something would be missing while changes are made.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+	I want to use git for my iOS app. Make my workflow more professional and efficient.
