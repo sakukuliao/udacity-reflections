@@ -21,4 +21,6 @@
 
 	For branching, the most useful case is when I need to experient a new feature or fix bugs or develop a different language settings.
 
-4)
+4)	What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	If I get hold of the last known state of the remote, in the case of collaboration, I can be sure that my work will not accidentally be mixed up with others' work. And I can get a picture of where others are heading for.
