@@ -8,4 +8,32 @@
 
 	A staging area is an intermidate point between working directory and the repository. It helps to organize commit history more logically in the repository. For ex, each time I make a commit, I can choose which files I want to commit, and which files are not related to the current working point.
 
+3)	How can you use the staging area to make sure you have one commit per logical change?
+
+	By using staging area, I can control which files are ready to be commited, while others that are not staged are not. In this way, I can determine the logical change in the file history.
+
+4)	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	In situations like I want to experiment with a new feature. In this case, branching could help me not worrying corrupting the original production code. I can checkout to the original anytime I want.
+
+5)	How do the diagrams help you visualize the branch structure?
+	
+	The diagrames give me an overview of all the commits I've made before. By viewing diagrams, I can get a sense of what the whole picture looks like in a second. And knowing that which branch I am currently on. And which branches others are currently working on.
+
+6)	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result is git will try to create a new commit where both branches latest commits are its parents.
+	Try to visualize the merging process.
+
+7)	What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	Pros:
+
+		People dont get involved everytime when a merge is made
+
+	Cons: 
+
+		Now, I just haven't had any good ideas
+	
+
 
