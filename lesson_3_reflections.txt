@@ -4,3 +4,21 @@
 2)	Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 	Because I don't want my local copy get containminated by the remote one before I amsure that my local copy has reached a steady state and is ready to be merged.
+
+3)	Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forking is a term used by Github to note that one can copy a particular branch(a series of commits) from another GitHub account.
+
+	Cloning is a git command for copying a repository from a remote repo.
+
+	Branching is a git command to label commits. By labeling commits, we can quickly jump between different commits and denote diffrent purposes for the labeled commits.
+
+	For usage.
+
+	I would use forking when I find some repo on GitHub that I would like to try it out and contribute.
+
+	For cloning, one ocassion is that I use it to let my local computer holds the same copy as the remote one.
+
+	For branching, the most useful case is when I need to experient a new feature or fix bugs or develop a different language settings.
+
+4)
